@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\esat.avsar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\esat.avsar\\.nuget\\packages"
+    ]
+  }
+}

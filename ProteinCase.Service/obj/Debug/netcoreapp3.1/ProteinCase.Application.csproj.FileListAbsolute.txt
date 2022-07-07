@@ -1,0 +1,15 @@
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\bin\Debug\netcoreapp3.1\ProteinCase.Application.deps.json
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\bin\Debug\netcoreapp3.1\ProteinCase.Application.dll
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\bin\Debug\netcoreapp3.1\ProteinCase.Application.pdb
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\obj\Debug\netcoreapp3.1\ProteinCase.Application.csproj.AssemblyReference.cache
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\obj\Debug\netcoreapp3.1\ProteinCase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\obj\Debug\netcoreapp3.1\ProteinCase.Application.AssemblyInfoInputs.cache
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\obj\Debug\netcoreapp3.1\ProteinCase.Application.AssemblyInfo.cs
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\obj\Debug\netcoreapp3.1\ProteinCase.Application.csproj.CoreCompileInputs.cache
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\obj\Debug\netcoreapp3.1\ProteinCase.Application.dll
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\obj\Debug\netcoreapp3.1\ProteinCase.Application.pdb
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\bin\Debug\netcoreapp3.1\ProteinCase.Dal.dll
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\bin\Debug\netcoreapp3.1\ProteinCase.Entities.dll
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\bin\Debug\netcoreapp3.1\ProteinCase.Dal.pdb
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\bin\Debug\netcoreapp3.1\ProteinCase.Entities.pdb
+C:\Users\esat.avsar\source\repos\ProteinCase\ProteinCase.Service\obj\Debug\netcoreapp3.1\ProteinCase.Application.csproj.CopyComplete
